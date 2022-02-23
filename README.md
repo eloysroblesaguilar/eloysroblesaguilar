@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eloysroblesaguilar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 I’m currently learning the spring framework
+- 💞️ I’m looking to collaborate on full stack dev projects
 - 📫 How to reach me roblesaguilar.eloys@gmail.com
 
 <!---
